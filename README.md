@@ -15,11 +15,12 @@ A brief description of what this project does and who it's for
 
 - [@Yanuarprayoga9](https://github.com/Yanuarprayoga9)
 
+
 ## Tech Stack
 
 **Client:** React, Redux, TailwindCSS,axios,vite
 
-**Server:**
+**Server:** 
 
 ## Features
 
@@ -30,14 +31,14 @@ A brief description of what this project does and who it's for
 
 Clone the project
 
-````bash
+```bash
   git clone https://github.com/Yanuarprayoga9/Game-Listing
-
+```
 Go to the project directory
 
 ```bash
   cd my-project
-````
+```
 
 Install dependencies
 
@@ -50,3 +51,4 @@ Start the server
 ```bash
   npm run start
 ```
+
