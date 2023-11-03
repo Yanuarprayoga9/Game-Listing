@@ -14,7 +14,7 @@ const Header = () => {
             <h2 >Yanuar</h2>
             <div className='flex bg-slate-300 p-2 w-full items-center mx-5 rounded-full mt-2 m-2'>
                 <HiMagnifyingGlass />
-                <input type="text" name="" id="" className='px-2  bg-transparent outline-none' placeholder='Search Games' />
+                <input type="text" name="" id="" className='px-2  bg-transparent outline-none' placeholder='Search Games' disabled/>
             </div>
             <div>
                 {theme == 'dark' ? <HiSun className="text-[35px] cursor-pointer bg-gray-200 text-black p-1 rounded-full "

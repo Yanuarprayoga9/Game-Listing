@@ -3,11 +3,10 @@ import GlobalApi from '../Services/GlobalApi'
 
 const GenreList = () => {
     const [genreList, setGenreList] = useState([])
-    const [active, setSActive] = useState(0)
+    const [active, setSActive] = useState()
     useEffect(() => {
         console.log(localStorage.getItem('theme'))
         getGenre()
-        console.log(genreList)
     }, [genreList])
 
     const getGenre = async () => {
