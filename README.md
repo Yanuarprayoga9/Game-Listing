@@ -22,6 +22,11 @@ A brief description of what this project does and who it's for
 
 **Server:** 
 
+## Screenshots
+
+![App Screenshot](./public/darkmode.png)
+![App Screenshot](./public/lightmode.png)
+
 ## Features
 
 - Light/dark mode toggle
